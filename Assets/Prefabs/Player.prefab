@@ -168,7 +168,7 @@ MonoBehaviour:
   wallCheckDistance: 0.4
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 64
+    m_Bits: 0
 --- !u!50 &5161731631665641012
 Rigidbody2D:
   serializedVersion: 5
