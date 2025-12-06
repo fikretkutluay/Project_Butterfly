@@ -453,11 +453,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 68.6
+      value: 22.81
       objectReference: {fileID: 0}
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.8
+      value: -2.59
       objectReference: {fileID: 0}
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalPosition.z
@@ -840,11 +840,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4018881056615020627, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 75.98
+      value: 74.5
       objectReference: {fileID: 0}
     - target: {fileID: 4018881056615020627, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.85
+      value: -2.62
       objectReference: {fileID: 0}
     - target: {fileID: 4018881056615020627, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
       propertyPath: m_LocalPosition.z
@@ -925,7 +925,7 @@ MonoBehaviour:
   optionButton1: {fileID: 391742981}
   optionButton2: {fileID: 524717281}
   subtitleText: {fileID: 1628821898}
-  subtitleSpeed: 2
+  subtitleSpeed: 4
 --- !u!4 &1595089455
 Transform:
   m_ObjectHideFlags: 0
@@ -1260,6 +1260,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 518611792490840537, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1440
+      objectReference: {fileID: 0}
+    - target: {fileID: 518611792490840537, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 72
+      objectReference: {fileID: 0}
     - target: {fileID: 2025712595049431982, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
       propertyPath: m_Name
       value: ScenarioCanvas
@@ -1347,6 +1355,22 @@ PrefabInstance:
     - target: {fileID: 6416631607742791125, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_fontSize
+      value: 64.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
