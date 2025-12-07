@@ -4486,11 +4486,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 22.48
+      value: 30.34
       objectReference: {fileID: 0}
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 5.37
+      value: 21.29
       objectReference: {fileID: 0}
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4523,6 +4523,10 @@ PrefabInstance:
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2874955007176978226, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
+      propertyPath: groundCheckDistance
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 2874955007176978226, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: whatIsGround.m_Bits
