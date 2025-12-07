@@ -2467,18 +2467,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 437673745}
-    - target: {fileID: 3100859110475834677, guid: cf758aa8db3777b4f8c01684436ecc5c, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: LoadMainMenu
-      objectReference: {fileID: 0}
     - target: {fileID: 4579101468364953515, guid: cf758aa8db3777b4f8c01684436ecc5c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 437673745}
-    - target: {fileID: 4579101468364953515, guid: cf758aa8db3777b4f8c01684436ecc5c, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ResumeGame
-      objectReference: {fileID: 0}
     - target: {fileID: 4853454033702017108, guid: cf758aa8db3777b4f8c01684436ecc5c, type: 3}
       propertyPath: m_Name
       value: PauseMenuCanvas
@@ -3782,27 +3774,13 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 518611792490840537, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 1440
-      objectReference: {fileID: 0}
-    - target: {fileID: 518611792490840537, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 72
-      objectReference: {fileID: 0}
-    - target: {fileID: 1557335217467314860, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
-      propertyPath: m_text
-      value: "Do\u011Frudan Eve Git"
-      objectReference: {fileID: 0}
-    - target: {fileID: 1626133707933014849, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
-      propertyPath: m_text
-      value: 'Ormandaki Patikadan Git
-
-'
-      objectReference: {fileID: 0}
     - target: {fileID: 2025712595049431982, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
       propertyPath: m_Name
       value: ScenarioCanvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 3090842572537675919, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6416631607742791125, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
       propertyPath: m_Pivot.x
@@ -3885,7 +3863,27 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_text
+      value: New Text
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_fontSize
+      value: 57.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
       propertyPath: m_enableAutoSizing
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 7522804096744811179, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
+      propertyPath: m_HorizontalAlignment
       value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
