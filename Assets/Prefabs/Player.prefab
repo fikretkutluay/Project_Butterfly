@@ -122,9 +122,9 @@ GameObject:
   - component: {fileID: 2874955007176978226}
   - component: {fileID: 5161731631665641012}
   - component: {fileID: 2529914830814921036}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -164,11 +164,11 @@ MonoBehaviour:
   dashDuration: 0.25
   dashSpeed: 20
   wallJumpForce: {x: 6, y: 12}
-  groundCheckDistance: 1.33
+  groundCheckDistance: 1.42
   wallCheckDistance: 0.4
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 8
 --- !u!50 &5161731631665641012
 Rigidbody2D:
   serializedVersion: 5
