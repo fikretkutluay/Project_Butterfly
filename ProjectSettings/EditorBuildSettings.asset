@@ -15,8 +15,11 @@ EditorBuildSettings:
     path: Assets/Scenes/DadsMap.unity
     guid: 398885cf5853b4b47943a3496803b7d2
   - enabled: 1
-    path: Assets/Scenes/Outro.unity
+    path: Assets/Scenes/BadEnd.unity
     guid: ce7cb1d9c7183124ba770a9f4c328cee
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: a751db491fa646240906446016208c18
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

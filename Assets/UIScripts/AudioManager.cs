@@ -14,20 +14,30 @@ public class AudioManager : MonoBehaviour
 
     private void Awake()
     {
-        // Singleton Yapýsý (Sahneler arasý yok olmamasý için)
         if (Instance == null)
         {
             Instance = this;
-            DontDestroyOnLoad(gameObject); // Bu obje sahne deðiþince silinmez!
+            DontDestroyOnLoad(gameObject);
 
-            // Audio Source'u otomatik ekleyelim
-            musicSource = gameObject.AddComponent<AudioSource>();
-            musicSource.loop = true; // Müzikler hep döngüde olsun
+            // --- DEÐÝÞEN KISIM BAÞLANGIÇ ---
+
+            // Eskiden: musicSource = gameObject.AddComponent<AudioSource>();
+
+            // Þimdi: Zaten eklediðin kaynaðý bulup kullanýyoruz
+            musicSource = GetComponent<AudioSource>();
+
+            // Eðer elle eklemeyi unuttuysan diye yine de garantiye alalým:
+            if (musicSource == null)
+                musicSource = gameObject.AddComponent<AudioSource>();
+
+            // --- DEÐÝÞEN KISIM BÝTÝÞ ---
+
+            musicSource.loop = true;
             musicSource.playOnAwake = false;
         }
         else
         {
-            Destroy(gameObject); // Eðer 2. bir DJ oluþursa onu yok et
+            Destroy(gameObject);
         }
     }
 

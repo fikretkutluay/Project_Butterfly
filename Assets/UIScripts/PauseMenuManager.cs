@@ -31,6 +31,12 @@ public class PauseMenuManager : MonoBehaviour
     public void LoadMainMenu()
     {
         Time.timeScale = 1f; // Çok önemli! Menüye dönerken zamaný düzeltmelisin.
+
+        // Ana menü müziðine (Fýndýk Loop) dönelim
+        if (AudioManager.Instance)
+        {
+            AudioManager.Instance.PlayMusic(AudioManager.Instance.findikLoop);
+        }
         SceneManager.LoadScene(0); // 0 numaralý sahne (Ana Menü)
     }
 }

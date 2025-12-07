@@ -93,6 +93,55 @@ public class ScenarioManager : MonoBehaviour
     }
 
     // =================================================================
+    // 4. OLAY: MUTLU SON (LEYLA ÝLE ÇARPIÞMA)
+    // =================================================================
+
+    // 1. Tetikleyici Fonksiyon (Sadece süreci baþlatýr)
+    public void TriggerHappyEnding()
+    {
+        // Oyunu dondur (Mecnun koþmayý kessin)
+        Time.timeScale = 0f;
+
+        // Diyalog satýrlarýný hazýrla
+        string[] finalLines = new string[] {
+            "Mecnun: Ah! Çok pardon hanýmefendi...",
+            "Mecnun: Ýþte kýzým... Annenle çarpýþtýðým o an, hayatýmýn deðiþtiði andý."
+        };
+
+        // ASIL ÝÞ BURADA: Coroutine'i baþlatýyoruz ki Unity bekleyerek ilerlesin
+        StartCoroutine(PlayEndingSequence(finalLines));
+    }
+
+    // 2. Oynatýcý Fonksiyon (Sýrayla yazý gösterip bekler)
+    IEnumerator PlayEndingSequence(string[] lines)
+    {
+        if (choicePanel) choicePanel.SetActive(false);
+
+        // Satýrlarý tek tek dön
+        foreach (string line in lines)
+        {
+            subtitleText.text = line;
+            // Her cümle 3 saniye ekranda kalýr
+            yield return new WaitForSecondsRealtime(3f);
+        }
+
+        // --- DEÐÝÞÝKLÝK BURADA ---
+        // Döngü bitti, yani son cümle ekranda.
+        // Hemen silmek yerine 3-4 saniye daha beklemesini saðlýyoruz.
+        yield return new WaitForSecondsRealtime(3f);
+        // -------------------------
+
+        subtitleText.text = ""; // Yazýyý temizle
+
+        // Zamaný tekrar akýt
+        Time.timeScale = 1f;
+        // Credits Sahnesine geç
+        SceneManager.LoadScene(4);
+        if (AudioManager.Instance)
+            AudioManager.Instance.PlayMusic(AudioManager.Instance.badEnding);
+    }
+
+    // =================================================================
     // ARKA PLAN SÝSTEMLERÝ (Dokunmana Gerek Yok)
     // =================================================================
 

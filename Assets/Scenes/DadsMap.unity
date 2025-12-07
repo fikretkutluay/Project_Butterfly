@@ -2101,13 +2101,41 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3569876272104234700, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3569876272104234700, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3569876272104234700, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1352335757}
+    - target: {fileID: 3569876272104234700, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3569876272104234700, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TriggerHappyEnding
+      objectReference: {fileID: 0}
+    - target: {fileID: 3569876272104234700, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: ScenarioManager, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3569876272104234700, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 4018881056615020627, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 54.8
+      value: 55.97
       objectReference: {fileID: 0}
     - target: {fileID: 4018881056615020627, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.5
+      value: 1.92
       objectReference: {fileID: 0}
     - target: {fileID: 4018881056615020627, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2143,7 +2171,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5500192977230666916, guid: 298dda756c3149b49a0de41eabd3b877, type: 3}
       propertyPath: m_Name
-      value: StoryTrigger
+      value: finaltrigger
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8050,7 +8078,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3090842572537675919, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6416631607742791125, guid: 8e42f3bd9cdfd57419d923ec58a04506, type: 3}
       propertyPath: m_Pivot.x
@@ -10182,11 +10210,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 7.5
+      value: 52.18
       objectReference: {fileID: 0}
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 20.6
+      value: 2.49
       objectReference: {fileID: 0}
     - target: {fileID: 2067964884611097734, guid: 0344a249c9c500941aea2ad961a48116, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12326,9 +12354,9 @@ SceneRoots:
   - {fileID: 832797702}
   - {fileID: 1352335758}
   - {fileID: 1295589349}
+  - {fileID: 276346232}
   - {fileID: 1627014335}
   - {fileID: 74306032}
-  - {fileID: 276346232}
   - {fileID: 1846463847}
   - {fileID: 1173367916}
   - {fileID: 475376796}
