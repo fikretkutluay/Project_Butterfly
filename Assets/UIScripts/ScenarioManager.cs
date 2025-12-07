@@ -53,6 +53,10 @@ public class ScenarioManager : MonoBehaviour
     // =================================================================
     public void StartFatherDialogue()
     {
+        // MÜZÝK DEÐÝÞÝMÝ: Konuþma Müziði
+        if (AudioManager.Instance)
+            AudioManager.Instance.PlayMusic(AudioManager.Instance.fatherDialogue);
+
         // Konuþma metinlerini BURAYA yazýyorsun (Güvenli ve Sabit)
         string[] speeches = new string[] {
             "Mecnun: Fýndýk? Senin burada ne iþin var?",
@@ -106,13 +110,24 @@ public class ScenarioManager : MonoBehaviour
 
         if (loadNextScene)
         {
+            // MÜZÝK DEÐÝÞÝMÝ: Mecnun Müziði
+            if (AudioManager.Instance)
+                AudioManager.Instance.PlayMusic(AudioManager.Instance.mecnunLoop);
             // Build Settings'de Mecnun Sahnesi kaç numaraysa onu yaz (Örn: 2)
-            SceneManager.LoadScene(2);
+
+                SceneManager.LoadScene(2);
         }
     }
 
     IEnumerator TriggerParadoxEnding()
     {
+        SceneManager.LoadScene(3);
+
+
+        // MÜZÝK DEÐÝÞÝMÝ: Kötü Son Müziði
+        if (AudioManager.Instance)
+            AudioManager.Instance.PlayMusic(AudioManager.Instance.badEnding);
+
         subtitleText.text = "Mecnun o gün eve gitti...";
         yield return new WaitForSeconds(3f);
 
@@ -123,7 +138,7 @@ public class ScenarioManager : MonoBehaviour
         yield return new WaitForSeconds(3f);
 
         // outroya dön
-        SceneManager.LoadScene(3);
+        
     }
 
     void SetupButton(Button btn, string text, UnityEngine.Events.UnityAction action)
