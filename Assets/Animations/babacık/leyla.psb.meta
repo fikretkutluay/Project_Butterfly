@@ -1,0 +1,4634 @@
+fileFormatVersion: 2
+guid: 371167355ccdc0046992d7b57fd6c15d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 0
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 500
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 1f74dd7ec61c15345b14f71edad3b98b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  multiSpriteImportData: []
+  layeredSpriteImportData:
+  - name: Layer 24 Copy 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 941
+      y: 4
+      width: 717
+      height: 1119
+    spriteID: e23e29e428acdb84d990ff687a202960
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 941, y: 4}
+    spritePosition: {x: 305, y: 266}
+  - name: Layer 24 Copy 5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1124
+      width: 847
+      height: 1110
+    spriteID: 70227b03a45a21445936b43b8d1f35f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1124}
+    spritePosition: {x: 181, y: 266}
+  - name: Layer 24 Copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 929
+      height: 1112
+    spriteID: 83b69b6c62ed20b4fa2fc95df8059b6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 34, y: 266}
+  - name: Layer 24 Copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2242
+      width: 847
+      height: 1110
+    spriteID: 37f9b67f73cb99046b033343bab1e28b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 2242}
+    spritePosition: {x: 181, y: 266}
+  - name: Layer 24 Copy 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 941
+      y: 1131
+      width: 717
+      height: 1119
+    spriteID: fa011b6bb0e6d124e84f8cc36321ab74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 941, y: 1131}
+    spritePosition: {x: 305, y: 266}
+  - name: Layer 24 Copy 4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
+    rect:
+      serializedVersion: 2
+      x: 941
+      y: 2258
+      width: 685
+      height: 1115
+    spriteID: cccdbd306dc92e54bb0c56ddbb55d154
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 941, y: 2258}
+    spritePosition: {x: 458, y: 266}
+  spriteImportData: []
+  rigSpriteImportData: []
+  sharedRigSpriteImportData: []
+  mosaicSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  padding: 4
+  spriteSizeExpand: 0
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  pSDLayerImportSetting: []
+  psdLayers:
+  - name: jump 3 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1c99619e7329be144a76536b9b08188f
+    layerID: 0
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Y\xDCZ Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b4750502bebe80746b52a6580345e725
+    layerID: 1504864247
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xDCST Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f37c50e6af4cd87439abd4ba55e5eaad
+    layerID: -1028923193
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ETEK Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3729ad66c7b032849b05eb4476437ca8
+    layerID: 367209235
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SBACAK Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: aec62685574f59a478fe83315c341ab7
+    layerID: 293065185
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SOBACAK Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fef6c685b036ef24f875712102e10a29
+    layerID: 1898202364
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7 Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b2f1b612f80825d4e9481517dfa01f70
+    layerID: 887120325
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: jump2 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 4ba3351628e88c641bccf380072f6fc3
+    layerID: -168408207
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Y\xDCZ Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 4fcf37ad2225efd4886beaec2f2e1b27
+    layerID: -61219694
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xDCST Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 83aad3b82cb81e9459dfc7528414d167
+    layerID: 537160748
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ETEK Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 7
+    spriteID: d141480c2c66da4478b3b2c14ba4caa7
+    layerID: 367209234
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SBACAK Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 2c297a12a71f4ec4982639d4b71c6247
+    layerID: 293065186
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SOBACAK Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 8f24bec080704b44e9aa80c8ad56beb7
+    layerID: -830680991
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7 Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 107123185b4d3a84582047f7af75990e
+    layerID: 483835798
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: jump1 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 776b80f5db962c94ea454f5f36c2c974
+    layerID: -168405138
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Y\xDCZ Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 8a51cc398af978f4598f9c939aa3d6ce
+    layerID: -1627303635
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xDCST Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 5dd876a6dbded1d4babea4edef818adc
+    layerID: 2103244689
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ETEK Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 14
+    spriteID: d12292190d79289479274f881a1546ec
+    layerID: 367209233
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SBACAK Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 14
+    spriteID: 12e8263f8e1a22c45bd72fb00888093c
+    layerID: 293065187
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SOBACAK Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 14
+    spriteID: b994778f96235444a99828ce1d3bbfa5
+    layerID: 735402950
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7 Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 14
+    spriteID: d74e9f37b2c9e3a4c8d1ba9f76821eeb
+    layerID: 2049919739
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 1B
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 42887bb6f62b4894da5d943446b48d12
+    layerID: -331290953
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "oldbabag\xF6vde Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 21
+    spriteID: 3776d81c481723543ac12b2d4973fde6
+    layerID: 461623007
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: oldbababacak Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 21
+    spriteID: 0ee4d00f26c826848947a4c6f8d6f21e
+    layerID: 1366993947
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "oldababay\xFCz Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 21
+    spriteID: 3d7101e0bed4897449ccb13e22ef269b
+    layerID: -327258605
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 2B
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 54827d12ea8023346b3a5331e425d4b4
+    layerID: -331290950
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "oldbabag\xF6vde Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 25
+    spriteID: ef6d1e9a0e47e69488f117e69596e59b
+    layerID: 461623013
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: oldbababacak Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 25
+    spriteID: aca3fa27cbcb66b4db6dcbffee860b39
+    layerID: 1366993949
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "oldababay\xFCz Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 25
+    spriteID: 3ed570944b880274f9900d09a64c89fe
+    layerID: 479310449
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 3B
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 7f8e9ae5328469f49be35c5d66ac1df8
+    layerID: -331290951
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "oldbabag\xF6vde Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 4ee1d2615f2fbd341baaf65f259b9c3b
+    layerID: 461623012
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: oldbababacak Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 29
+    spriteID: bc8f04af999e2f141ad45c43f3f98e0d
+    layerID: 1366993948
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "oldababay\xFCz Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 29
+    spriteID: 37e0aa2596e6b7f4c85461576a5b1f0e
+    layerID: -1086773492
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 4B
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1636e19961ce4e342bbe4121a5743caf
+    layerID: -331290956
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "oldbabag\xF6vde Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 425f6f0a9c515c147839524d8dcccc61
+    layerID: 461623010
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: oldbababacak Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 33
+    spriteID: e3d782a0ca1d35b42a5e53a322be1e33
+    layerID: 1366993950
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "oldababay\xFCz Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 33
+    spriteID: 1b402a74b9fb7f443938b42f2f865c64
+    layerID: 76025922
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABA Copy"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 513cc830c48dccd439a52f3b74c4f5f8
+    layerID: -103812322
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: gbababacaksol Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 432d7df980e84b64588e17d44613b3c8
+    layerID: -234496260
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbababacaksa\u011F Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 37
+    spriteID: b967e9d52e92b1f4ca50d81a39a9451b
+    layerID: -1624081803
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabaalt Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 9009ea46c61ed404ca361dfcafc20bc3
+    layerID: -2034243033
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 2870f18a643801341a2bf7858218a260
+    layerID: 91263368
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabakrvat Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 37
+    spriteID: b6b7d23a31bad124e97ff1e3664597a6
+    layerID: -675470782
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabag\xF6vde Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 684e2c9a601781d428587ea52a5e99a1
+    layerID: 2127346480
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 471704fdc581df342958542c5d8d2d2a
+    layerID: 2037108430
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 37
+    spriteID: 8897f9624baae6746b8364c72f36a06b
+    layerID: -226559713
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabay\xFCz Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 37
+    spriteID: ab62563029f99c442834bef9957c890d
+    layerID: 1731741489
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABA Copy 2"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 250380fe66f49b74085ccd2838fb9429
+    layerID: -555760820
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: gbababacaksol Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 42040ae866ea93b4b91e328e36532beb
+    layerID: -143227742
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbababacaksa\u011F Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 47
+    spriteID: b2b2a3174638ec94d8e01508967599c8
+    layerID: -1080509233
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabaalt Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 0568d3b95f520854a83bed21fc4e079b
+    layerID: 164535225
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 47
+    spriteID: d894da8827162354b83a23551860abc0
+    layerID: 471024489
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabakrvat Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 47
+    spriteID: ee8cdd45498861c4c97e5f384c05d8dc
+    layerID: 609222096
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabag\xF6vde Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 8872f0720934d3f4290aa11c5b9579c0
+    layerID: 58035646
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 3ddbbd9d6ce974249a46779de7a52ab9
+    layerID: -1451289812
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 47
+    spriteID: c6efca60cba9b2648ab04544ca21c08f
+    layerID: -1756581775
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabay\xFCz Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 47
+    spriteID: 705b4bc10bf931247a909cba160ddeb7
+    layerID: -112027101
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABA Copy 3"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 67451a817ae6d134a8c5db47fa3d547c
+    layerID: -555760819
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: gbababacaksol Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: 22973a5627edf094796cfdff6e1d5efb
+    layerID: 1422856199
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbababacaksa\u011F Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: 6a978c80d0f880b4cbbfd6016b92cede
+    layerID: 485574708
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabaalt Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: 12aa80624c764b74dbd2880fb071467b
+    layerID: 164535226
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: 822306da2fe1ad74c8848c86b7f42fe7
+    layerID: 1277593543
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabakrvat Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: fced74abdcf4e56409f776f6da504e58
+    layerID: 609222095
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabag\xF6vde Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: c2e03de1ce2c3c2488d7aed89f6ea662
+    layerID: 58035647
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: 152130bdcc14c5c448616c2dcbc2f2d2
+    layerID: -288490398
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: 4ac16106fcc711447be29af0c7842b2d
+    layerID: -1756581776
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 12"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: 0f69d3c1934e8634ea7d672a159dc105
+    layerID: 2145705428
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabay\xFCz Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 57
+    spriteID: a116f08288f01fd42b2404b986662c89
+    layerID: -112027100
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABA Copy 4"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 7d50c591d8219c644b50e214446dbf0f
+    layerID: -555760814
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: gbababacaksol Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: d0067f5e9ed71f04eba4280ca28a85c2
+    layerID: 1019571672
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbababacaksa\u011F Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: f3b0c89c9434a6145b87ecf3df646034
+    layerID: 2051658649
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabaalt Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: cbbbc210e776fd849830e5541bd4e71c
+    layerID: 164535227
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: c52f4fe3ad8cd0841aaa5004977fc323
+    layerID: -1854574339
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabakrvat Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: 4268cafb62f77874aafe148e0426b353
+    layerID: 609222094
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabag\xF6vde Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: d65760a274bda4741a0987a0dba6c354
+    layerID: 58035644
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: c522d085e8c20e24390a1bf4a329892a
+    layerID: 518078656
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: 895a43e9fa9ddaa46bb981b9b993892d
+    layerID: -1756581781
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabay\xFCz Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 68
+    spriteID: 9c673a0da5b6a404589f870c9998daba
+    layerID: -112027099
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABA Copy 5"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: e5a6fc8f164b20b41a911d7b436b4dcc
+    layerID: -555760813
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: gbababacaksol Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: 2055c725aedb43543b7f59c76b0c740a
+    layerID: -1709311683
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbababacaksa\u011F Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: f252b50278648a34e90f36cc6a741ea8
+    layerID: -677224706
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabaalt Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: 9e0ca592a5ecac748a0bf533dc98c654
+    layerID: 164535228
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 9
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: a6fa012d7e7b2e84495d54689b5e748f
+    layerID: -1048005285
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabakrvat Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: fbe0789071d50204a868e1d27e11c55e
+    layerID: 609222093
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabag\xF6vde Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: 45d0798f4022b3a4b852975c078d0d15
+    layerID: 58035645
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 10
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: 1d84c3438fce8d8498a351e4d4021ffa
+    layerID: -366685853
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 11"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: 148a800abca678845bafe7a4121104f5
+    layerID: -1745977341
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: ed4b700d5276b134d8cb401bdd907b32
+    layerID: -1756581782
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabay\xFCz Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 78
+    spriteID: dc73c9f6db2ca3d4f963799c4589b8f6
+    layerID: -112027098
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABA Copy 6"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: b6c220f05e3b27c44af4b21ddaca8aaa
+    layerID: -555760816
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: gbababacaksol Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 5fc4da02a9f5bb649bf32eaf26bcbaaf
+    layerID: -2112596210
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbababacaksa\u011F Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 42668f34a0b5da449b6d0de50d1299ae
+    layerID: 888859235
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabaalt Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 8ba3fea210056d14bb43d576f0303226
+    layerID: 164535229
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 11
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: b1b2e0758b8982848b374d84b536e9cd
+    layerID: -366685854
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabakrvat Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: e2e5cd8990f992c429d0933df0787bba
+    layerID: 609222092
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabag\xF6vde Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 298031645d16dbe47800b58ac3adc0b8
+    layerID: 58035642
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 12
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 1ab6bba066276b7448a4db96fc477c7b
+    layerID: -366685851
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: deaa31d311e55c240aeba90245f66345
+    layerID: -1756581779
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 10"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: fa188dfde9fc6d648a91ee594f88f1f6
+    layerID: 982906014
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabay\xFCz Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 89
+    spriteID: 88749679996e8524885ee4c62cdb5ac8
+    layerID: -112027097
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABA Copy 7"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 694d23e453873cf41a791ffd144473b6
+    layerID: -555760815
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: gbababacaksol Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 2eb999489478db34391e6fbe9beecbd7
+    layerID: -546512269
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbababacaksa\u011F Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: f1dee0474c6c42c41b987e902cc468de
+    layerID: -1840024120
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabaalt Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 39cc7bb7ac4199f43b62eb84779def08
+    layerID: 164535230
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 13
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 1e0f56045521f6a4386a9dce65d120bd
+    layerID: -366685852
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabakrvat Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 3e1a94d4f17cb1c43a75a686b4a341b6
+    layerID: 609222091
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabag\xF6vde Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 86a8c5d923d094e4ea186eeab8814b1a
+    layerID: 58035643
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 14
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: f072058ac0942b546a9895c59365023a
+    layerID: -366685849
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: b7f6c15ab2c94c64cb2ffb7937191af0
+    layerID: -1756581780
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 9"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: 233317177d4b2fd499a5182db9087ea0
+    layerID: -1756581770
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabay\xFCz Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 100
+    spriteID: a6c5e99953884d34386b0e613b946bcf
+    layerID: -112027096
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 24 Copy 6
+    spriteName: Layer 24 Copy 6
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e23e29e428acdb84d990ff687a202960
+    layerID: -1924487250
+    mosaicPosition: {x: 941, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 24 Copy 5
+    spriteName: Layer 24 Copy 5
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 70227b03a45a21445936b43b8d1f35f6
+    layerID: -1924487247
+    mosaicPosition: {x: 4, y: 1124}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 24 Copy
+    spriteName: Layer 24 Copy
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 83b69b6c62ed20b4fa2fc95df8059b6d
+    layerID: 288954340
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 24 Copy 2
+    spriteName: Layer 24 Copy 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 37f9b67f73cb99046b033343bab1e28b
+    layerID: -1924487246
+    mosaicPosition: {x: 4, y: 2242}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 24 Copy 3
+    spriteName: Layer 24 Copy 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fa011b6bb0e6d124e84f8cc36321ab74
+    layerID: -1924487245
+    mosaicPosition: {x: 941, y: 1131}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 24 Copy 4
+    spriteName: Layer 24 Copy 4
+    isGroup: 0
+    parentIndex: -1
+    spriteID: cccdbd306dc92e54bb0c56ddbb55d154
+    layerID: -1924487248
+    mosaicPosition: {x: 941, y: 2258}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 15"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: b2d15c29c99affc42a527b80d1b8df43
+    layerID: 636909623
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 20 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: 28acd6a0e5399664fb269cda74400c26
+    layerID: -1164626608
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 19 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: 4f17e1ed88efefd4597267379a9637c8
+    layerID: -1744394052
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 18 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: f39259a8be1ac364e9aa476c8dbbcbbe
+    layerID: 1742712535
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EKOLYAN Copy 16"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: 7f5c7e102c0d14f44997c88d4401bdee
+    layerID: -301599154
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: YANKRAVAT Copy 16
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: 60f3b7a7f32e21a40b4bc5b214b2acac
+    layerID: 1877071023
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 16"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: e4ff4f0e5dbb0e24295e82e0a9430efa
+    layerID: 141755984
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 16"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: 3c472fb022756bd47bca3d72c733058b
+    layerID: 1011518609
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 16
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: e010b58666194f04588282b14940e4d9
+    layerID: 489952641
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 16
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: 05d29db3a83fa2e46aa5e6765ef5ec09
+    layerID: -611346749
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 19"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: 92d53eac32293244aa5a3dcf7e8a0b9e
+    layerID: -1634910060
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 20"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: 3d336c4a0b6900f41820347453a45fc7
+    layerID: 1450203652
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 16"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 117
+    spriteID: 1977088b42e548942a4221032717c5ed
+    layerID: 1779435927
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 16"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 4f18aac3fca97f1438198669ba14c110
+    layerID: 636909626
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 20 Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: 4ca7a405aed97414c881ef5b20df6e89
+    layerID: 1646949022
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 19 Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: c5dc994b041210f4b82be7c806fb850c
+    layerID: 1139616974
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 18 Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: fd1d51e55fe51764fbf6a93699292068
+    layerID: -1195107063
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EKOLYAN Copy 17"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: de285a4664a25074da254d36f9bf9a52
+    layerID: -301599155
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: YANKRAVAT Copy 17
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: 10501c17867cb704791ecf57355a3efc
+    layerID: 1877071022
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 17"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: 5f41ff909fd075a4f97921535abafff9
+    layerID: -1424327957
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 17"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: 3c5f0f96eebc6d540919ade1ae603863
+    layerID: 1011518610
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 17
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: 3f69c79aa84558940a37b51a16fd7b2e
+    layerID: 489952642
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 17
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: 1acd9e00e26f28440ad24346aaccb27e
+    layerID: 2117536606
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 21"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: c9fa22a38defc2548852842c5bcb994c
+    layerID: -1278679703
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 22"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: c65716defa620904d94e5c1dbfd9a9c3
+    layerID: 287404238
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 17"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 130
+    spriteID: a10e2186037997a42b08f48b4b8ffb54
+    layerID: 213351986
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 17"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ce2b96cd7b24e9d41bb1cb8d616bf650
+    layerID: 636909625
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 20 Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 87a72d25ce5488348ba8ef51832b8456
+    layerID: 1646949023
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 19 Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: a1e25f0012c32fe4c947780712c28137
+    layerID: 1139616973
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 18 Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 6c37c74c1e86ec647a6ff8b763a3bde6
+    layerID: -1195107064
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EKOLYAN Copy 18"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 7d22c5722660e054b97ca88568f17866
+    layerID: -301599148
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: YANKRAVAT Copy 18
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 7471ff3d9c7522d439172ef929e037f1
+    layerID: 1877071025
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 18"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: ee2eb1858e1a2434f985f878ad55b7b9
+    layerID: 948325038
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 18"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 9a151308fb176b44d9c16eb613a687e6
+    layerID: 1011518607
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 18
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 0a2f27d0f7ed0ca419a8a33198dda994
+    layerID: 489952635
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 18
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: ea3680fab849baf4ab731f0a7d7c5f1b
+    layerID: -1774146163
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 23"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: 54bdf09aeff40064e9f02418b36cb9a3
+    layerID: 1853488179
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 18"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 143
+    spriteID: e6fbb9ed2c6d50949abc85c6183143eb
+    layerID: 972866873
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 12"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: d3ced91ca681fd24fb0bcb62b7f9ea78
+    layerID: 636909622
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 12"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 33c90fece99cd8947947c1e373a04698
+    layerID: -301599158
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 12
+    spriteName: 
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 4a6eeb9eb5777e64580e494c07b90fb6
+    layerID: 1877071019
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 12"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 52767c0d5d05ce64584436c91e1eb8b3
+    layerID: -1827612484
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 12"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 0c9780b636ba7f249a037807b2479445
+    layerID: 1011518613
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 12
+    spriteName: 
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 571886ab83e2d244599d68c7803b9a86
+    layerID: 489952645
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 12
+    spriteName: 
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 7dda3884213e28b47a5938b1b4efffb4
+    layerID: 1714252079
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 15"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 2e2d46a8879f7554881ce4a5bd5b9ecd
+    layerID: 690688768
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 12"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 155
+    spriteID: 92ec58a1e19ca5b408ffc636a9d5d526
+    layerID: -546162901
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 13"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 4fbd3dd646f46c347896119d2e1ef35a
+    layerID: 636909621
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 13"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 164
+    spriteID: d416d2928eb7b1344b02b2ef638a05d5
+    layerID: -301599159
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 13
+    spriteName: 
+    isGroup: 0
+    parentIndex: 164
+    spriteID: 127df48f9090a0447869b1d3b8c8bf2b
+    layerID: 1877071018
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 13"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 164
+    spriteID: 177f660e14049204ea5953ba14850816
+    layerID: 901270871
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 13"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 164
+    spriteID: 95ee135b901909649a694ebe09a2b233
+    layerID: 1011518614
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 13
+    spriteName: 
+    isGroup: 0
+    parentIndex: 164
+    spriteID: 6d90240e29b79a74fb3ab2caae90fa48
+    layerID: 489952646
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 13
+    spriteName: 
+    isGroup: 0
+    parentIndex: 164
+    spriteID: 894b4813bae26624a8f3ff7ba722e27a
+    layerID: 148168138
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 16"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 164
+    spriteID: ff7153186623728459594d3f156d388a
+    layerID: -2038194587
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 13"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 164
+    spriteID: 909dcfc8c1e28d140b18859fac4df107
+    layerID: -2112246842
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 14"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 94217558fe712634882b85a7fbe9cc07
+    layerID: 636909624
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 14"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 173
+    spriteID: b0d6bc63c31841b40aa9bff64b27efd7
+    layerID: -301599152
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 14
+    spriteName: 
+    isGroup: 0
+    parentIndex: 173
+    spriteID: 7604adb5549d4f44fbaae0c07d92ee38
+    layerID: 1877071021
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 14"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 173
+    spriteID: e46b147d997c4d040bba275c33e21c12
+    layerID: -1021043430
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 14"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 173
+    spriteID: 73964be91c6af5e4bb09878d1b587f49
+    layerID: 1011518611
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 14
+    spriteName: 
+    isGroup: 0
+    parentIndex: 173
+    spriteID: cd9dffbfd89daea4a92bf79636de76e1
+    layerID: 489952639
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 14
+    spriteName: 
+    isGroup: 0
+    parentIndex: 173
+    spriteID: 553cf3617c6af2548946b7e18ad5f8fd
+    layerID: 551452665
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 17"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 173
+    spriteID: 5ccfeda9a6ed20348a2f3f70395f4522
+    layerID: -472110646
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 14"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 173
+    spriteID: e1c154be61dee5240b5f01162bd95781
+    layerID: -1352731955
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: jumpgenco1 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 21a7d0dec94fb0b43b655feca2524370
+    layerID: 243216038
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 15"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 182
+    spriteID: 8c1c30dbec6a91b4e90b362ba3cd437a
+    layerID: -301599153
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 15
+    spriteName: 
+    isGroup: 0
+    parentIndex: 182
+    spriteID: 00a7a1883832c2841b1757972435357b
+    layerID: 1877071020
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 15"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 182
+    spriteID: c77c5687b7923e84cada7c7551caeb74
+    layerID: 1707839925
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 15
+    spriteName: 
+    isGroup: 0
+    parentIndex: 182
+    spriteID: 2688fc8e347f83948bc59d8eb3513c2c
+    layerID: 489952640
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 15"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 182
+    spriteID: d080de8e6b95349428e6158a63956588
+    layerID: 1011518612
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 15
+    spriteName: 
+    isGroup: 0
+    parentIndex: 182
+    spriteID: 926a71b48c8fcb944b00312c84b03a60
+    layerID: -1014631276
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 18"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 182
+    spriteID: b60c0e0d578c5174488149adc94d561c
+    layerID: 1093973295
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 15"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 182
+    spriteID: 70a92d264d517a743a50887383e2bd13
+    layerID: 1376151400
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 10"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 3368004ee05e0cc44b58f45ee6532b73
+    layerID: 636909620
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 10"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 191
+    spriteID: 08968743f5b5c1a468d9f4997bcfc581
+    layerID: -301599156
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 10
+    spriteName: 
+    isGroup: 0
+    parentIndex: 191
+    spriteID: 238621926e10ab6459806cfae5fde48e
+    layerID: 1877071017
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 10"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 191
+    spriteID: 6ab274fa5ce6d0a46b63d600a5786c57
+    layerID: 1304555398
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 10"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 191
+    spriteID: c3c61459060626d48971606010cf4bde
+    layerID: 1011518615
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 10
+    spriteName: 
+    isGroup: 0
+    parentIndex: 191
+    spriteID: d9694f355c450984faa55c8bfbc1da86
+    layerID: 489952643
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 10
+    spriteName: 
+    isGroup: 0
+    parentIndex: 191
+    spriteID: cd9118b0fa926c94e8b9a5d5b32ada6c
+    layerID: -1417915803
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 11"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 191
+    spriteID: 5c4e16a1694628f4c8253c44e68a7900
+    layerID: -1278679700
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 12"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 191
+    spriteID: 89d56f34b386e304085e3efa435230f8
+    layerID: 287404241
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 10"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 191
+    spriteID: 4442ac91092f6f849b759d3c46256b11
+    layerID: 616636513
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 11"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 3b4fc9cc1f0459742af2a3791afc06ff
+    layerID: 636909619
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 11"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 201
+    spriteID: e00857bb7fe0b3741ae11981fec2f022
+    layerID: -301599157
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 11
+    spriteName: 
+    isGroup: 0
+    parentIndex: 201
+    spriteID: f2f004ed69e61d641b98e2d21b9674bd
+    layerID: 1877071016
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 11"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 201
+    spriteID: 3b2da5d8b14e4bf43acc453c492a6423
+    layerID: -261528543
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 11"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 201
+    spriteID: d3c69069044322040aa4a51a1c6585d2
+    layerID: 1011518616
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 11
+    spriteName: 
+    isGroup: 0
+    parentIndex: 201
+    spriteID: c353e6e6ee133274c8433cf3caddfcf1
+    layerID: 489952644
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 11
+    spriteName: 
+    isGroup: 0
+    parentIndex: 201
+    spriteID: 9be2a741bc6ab1a40aa8472753956774
+    layerID: 1310967552
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 13"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 201
+    spriteID: e3fbae69cf9e20b4287513c9f5656641
+    layerID: 1853488182
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 14"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 201
+    spriteID: bf0674b206c83524e8173b82703af7a2
+    layerID: -875395173
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 11"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 201
+    spriteID: fe32a2a997303a043a8cfc59a5d6d7bd
+    layerID: -949447428
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 9"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 7940f4d43a524f04b8247a0e22512808
+    layerID: 1619644956
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 9"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 211
+    spriteID: 86d6d0f9fc5ab8a4e8e44664be941356
+    layerID: -1183166172
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 9
+    spriteName: 
+    isGroup: 0
+    parentIndex: 211
+    spriteID: 3ee46a7519b0fa7458096b0b71ddbc6d
+    layerID: -257113263
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 9"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 211
+    spriteID: d5cc843b8adc9ce4b9ca0c46458bdee7
+    layerID: 951518558
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 9"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 211
+    spriteID: 93e57601d54d1c544bb8a37c4a0d309b
+    layerID: 1760257487
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 9
+    spriteName: 
+    isGroup: 0
+    parentIndex: 211
+    spriteID: 6658b34723106894dad50ea5073791d6
+    layerID: 1410868939
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 9
+    spriteName: 
+    isGroup: 0
+    parentIndex: 211
+    spriteID: 79509794990375248b6088ad1be7c9de
+    layerID: 1431822045
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 9"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 211
+    spriteID: ce5947536b5762545bff5a71d4b9dc1e
+    layerID: 1104045151
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 10"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 211
+    spriteID: c7e7df4890bf1094c939452be0353592
+    layerID: 1450203655
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 9"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 211
+    spriteID: b9145b8018b35f34ba317b73ff75a4be
+    layerID: 211021113
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: d66baaf7d4959584d8beaf1553760ea3
+    layerID: 706962191
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: solOLYAN Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 221
+    spriteID: 732f8f664765f6743b684b8d46205022
+    layerID: 1518223750
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 221
+    spriteID: d979fcdc991e61f4ba48a2d92340bfaa
+    layerID: 1612266926
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 221
+    spriteID: 1810036e545fc8c4ba6b5344ed4a196d
+    layerID: 1633819621
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 221
+    spriteID: 545bd765a6e7f3049be9bf81402b4644
+    layerID: 1741839838
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 221
+    spriteID: 2cdead0796f42d54d9c9593367f07b59
+    layerID: 38268626
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EKOLYAN Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 221
+    spriteID: ba88968d828cac04fa858daaec361533
+    layerID: 383317191
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 221
+    spriteID: 6511a3cb5ab93864f89726d13a40aa7e
+    layerID: 597237446
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 221
+    spriteID: 52b6b685c17fe0443ab27468497a7f36
+    layerID: -947838526
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 2"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: eeccf37274e50cb43b4c989c69425c88
+    layerID: 860130069
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: solOLYAN Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 230
+    spriteID: 2e49dd8d784a2fb44bef7612dba1e0b7
+    layerID: 1431822040
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 230
+    spriteID: 652da9f6407d4ca4eacb527f2bd03fbb
+    layerID: -210059096
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 230
+    spriteID: f38574b9514b4924084f6a91d3b1b82a
+    layerID: 951518547
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 230
+    spriteID: 6e6a0f9b7e192ce4095cccc12e1829dd
+    layerID: 651354052
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 230
+    spriteID: d7b11d8d6e2c9c34caee8ea0ca6615de
+    layerID: -612395508
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EKOLYAN Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 230
+    spriteID: 3ae462482c479f64c89da1dcbfdcfe4c
+    layerID: 739148129
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 230
+    spriteID: 68e845b2ddd9bbb4bb74df7d418fe327
+    layerID: 1104045140
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 230
+    spriteID: 92268e648eeb546408beee87c5143455
+    layerID: 211021108
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 3"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 444cba62f20888542a8b4198d5fde565
+    layerID: -1868753286
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: solOLYAN Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 239
+    spriteID: 47bbc564eec2e334c860644de1472fab
+    layerID: 1431822039
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 239
+    spriteID: 71641d013109a3e4cae52e4cd5f41557
+    layerID: -1776143037
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 239
+    spriteID: 4eebbe16589520a4fbbd81249adedcfb
+    layerID: 951518548
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 239
+    spriteID: 31a05511932462f4282692cf3ca09802
+    layerID: -2077529303
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 239
+    spriteID: 1296c5e6fcd24434b90ba97afb24c66c
+    layerID: 953688433
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EKOLYAN Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 239
+    spriteID: 462953bc758ed70429dd2c4353e2984e
+    layerID: -1989735226
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 239
+    spriteID: 3d760cb68a196c342a25862adfadf313
+    layerID: 1104045141
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 239
+    spriteID: e611833da73ed984fa2246ea4c7a89e6
+    layerID: 211021107
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 4"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 9fd0884e7a358674fb9cb99c0cc4df6c
+    layerID: 2022929483
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: solOLYAN Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 248
+    spriteID: d53768ab0e34b5446a82d734e7da933c
+    layerID: 1431822042
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 248
+    spriteID: e828cf215eaf5ba47aff00d178a66117
+    layerID: -1372858510
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 248
+    spriteID: a7365ad9fe0d9674e8a58a762cd3be5d
+    layerID: 951518545
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 248
+    spriteID: ae0531c7d08f3de4cb112afd8e001bd9
+    layerID: 1457923106
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 248
+    spriteID: ba8cdc1185a7da24db9106158b50b61e
+    layerID: -1418964562
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EKOLYAN Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 248
+    spriteID: 58a7561b1b567f4489534d51b91490ea
+    layerID: -67420925
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 248
+    spriteID: 43184ac7835b7094f9a3290f03ee5fa0
+    layerID: 1104045138
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 248
+    spriteID: 8d57193a9aff520489b9158d7af58a8b
+    layerID: 211021110
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 5"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 3f241189791b5ed47a26693c493fc42d
+    layerID: -705953872
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 257
+    spriteID: 08b6cc3e6ede1824587dd2aaf8127deb
+    layerID: 1498663016
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 257
+    spriteID: 6e25ef4ffa5e6c1448e25d0daeb6e01c
+    layerID: 1356024845
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 257
+    spriteID: 15e373c9a345a7a4a9e350d094293296
+    layerID: 951518546
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 257
+    spriteID: 656a954612232d94f9221ea13d22d5b1
+    layerID: 147119379
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 257
+    spriteID: b52c93a326b2843478e4ce77473937f5
+    layerID: -1270960249
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 257
+    spriteID: 5adb813924b41a54a921461f993c1866
+    layerID: 1431822041
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 257
+    spriteID: 13f8e210c3646644ca0ca71722e77fe2
+    layerID: 1104045139
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 257
+    spriteID: 565381f29b0c11a4a837d6ec6f0075a3
+    layerID: 211021109
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 6"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: bf2f494cbd751384fb05581fbd28b5f2
+    layerID: -1109238399
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 266
+    spriteID: 880cba3d8d687bb42ab9897f839c1bd6
+    layerID: -1230220339
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 266
+    spriteID: fe20470b760dcfb4ebebc8f6ca7bcdd6
+    layerID: 1759309372
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 266
+    spriteID: 8da7823b48d428a408395fa1b02dc8d6
+    layerID: 951518543
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 266
+    spriteID: c56069a1a01cd86478ebebb8e0b42500
+    layerID: 1713203320
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 266
+    spriteID: ed050e816f548d94db1ccedaac2fbaa9
+    layerID: -1674244776
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 266
+    spriteID: 0627135fe4617d845a7ccf1224a217a1
+    layerID: 1431822044
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 266
+    spriteID: 2f04c3b8194b59d43a11abed704500b8
+    layerID: 1104045136
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 266
+    spriteID: ce251fd77422d3d47aed0875cf484d1d
+    layerID: 211021112
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 7"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c1d447eafa04ff64eab60574f41a0988
+    layerID: 456845542
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 275
+    spriteID: 42a268a10d8cfd140a61c920f7708efb
+    layerID: 335863602
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 275
+    spriteID: 32ea9f7efd34fee45a6336586a29f855
+    layerID: 193225431
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 275
+    spriteID: 7716722ff7388f74186047c0eceb46d0
+    layerID: 951518544
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 275
+    spriteID: 82c9e52f38d75b1468627dae3ab44591
+    layerID: -1015680035
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 275
+    spriteID: 78eb50ec7eb944c46801e596d6881e19
+    layerID: -108160835
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 275
+    spriteID: b368e3e780164d349b439cb2fe6058f8
+    layerID: 1431822043
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 275
+    spriteID: 767c227c4849e374899d44cfc57777af
+    layerID: 1104045137
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 275
+    spriteID: 2152a8bce472c1c4893c383a800e49b1
+    layerID: 211021111
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABAYANN1 Copy 8"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ebb659c8674fd04408d1de37e87882a8
+    layerID: 53561015
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "SA\u011EKOLYAN Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 284
+    spriteID: 0251150be62b28244b82b7ddda95be41
+    layerID: 1545717183
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: YANKRAVAT Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 284
+    spriteID: 19bd3f35a98c12b4b884cf3cba3a698e
+    layerID: 1308970678
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\u011EBACAKALT Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 284
+    spriteID: 46ec26de3711c2d48a2bc10e18e21253
+    layerID: 194173546
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solBACAKALT Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 284
+    spriteID: 582bf366977197c4cb2e23bce18faa85
+    layerID: -155215002
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "G\xD6VDEYAN Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 284
+    spriteID: 26f25fc5909fdc74bad7f2ce859926c4
+    layerID: 951518557
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: solOLYAN Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 284
+    spriteID: d4288aaefb198f84eba58d346ce8e94a
+    layerID: 1431822046
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7YAN Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 284
+    spriteID: d62c3b08445181a45a366430f417c97c
+    layerID: 1104045150
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "Y\xDCZYAN Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 284
+    spriteID: f9a7899f5fed5054c95e4053cefd626c
+    layerID: 211021114
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "GEN\xC7BABA Copy 8"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a4008e88235445543b35f06f285eb2ba
+    layerID: -555760826
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: gbababacaksol Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 293
+    spriteID: 751242cee6dce8c41b1c95310faee803
+    layerID: -1662257516
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbababacaksa\u011F Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 293
+    spriteID: b968886402cfda0448dd1721e2db9788
+    layerID: 438520541
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabaalt Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 293
+    spriteID: e29a1c3327cb97c42956cc41251b9ac9
+    layerID: 164535215
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 15
+    spriteName: 
+    isGroup: 0
+    parentIndex: 293
+    spriteID: e823b2d4ec31c7f4e89a223e560a2a69
+    layerID: -366685850
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabakrvat Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 293
+    spriteID: b966f8666fdec95468626b8f39e77ca7
+    layerID: 609222106
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabag\xF6vde Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 293
+    spriteID: 4f39eadf88ec7f14e8b3a4537cffce79
+    layerID: 58035656
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: gbabasolkol Copy 16
+    spriteName: 
+    isGroup: 0
+    parentIndex: 293
+    spriteID: 0a99de6bdb1433d4886b52792fbec981
+    layerID: -366685847
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabasa\xE7 Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 293
+    spriteID: 8c42fb5ed4cba1344a2e6ab02aa0ce51
+    layerID: -1756581769
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "gbabay\xFCz Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 293
+    spriteID: 4e54ebf7cd0a23b46802b0b37f7bc7b8
+    layerID: -112027111
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 5B
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 9dda995464d918148ae83233a9da1e02
+    layerID: -331290957
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "oldbabag\xF6vde Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 303
+    spriteID: 5a0e6aa4d2f0385468506bac1e0726f4
+    layerID: 461623011
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: oldbababacak Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 303
+    spriteID: 69a17a797a7274e4398c975b32292bea
+    layerID: 1366993951
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "oldababay\xFCz Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 303
+    spriteID: f054aa564df9c1c429baf71d9fea0e6e
+    layerID: 1642109863
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: babaold2 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 6d2bb0ad35a767d4eae04b73f2e8174b
+    layerID: -1770825856
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "oldbabag\xF6vde Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 307
+    spriteID: 7f284483a6c08a74b96ca8cbce0a5d26
+    layerID: -72982512
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: oldbababacak Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 307
+    spriteID: 2301d3954b769eb4185b6373c3d1036b
+    layerID: 1299749864
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "oldababay\xFCz Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 307
+    spriteID: 08a793de4116659418e9287ab1f4a16f
+    layerID: -1069045400
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: babaold1 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 657dec1250a206f489f33fcd1682ef72
+    layerID: -2014036561
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "oldbabag\xF6vde Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 311
+    spriteID: e880e84d4ee192b47bb53dfb594ab0a7
+    layerID: 461623006
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: oldbababacak Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 311
+    spriteID: 4db65fdb2142974459d38f9ee6425135
+    layerID: 1366993946
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "oldababay\xFCz Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 311
+    spriteID: a98aa4473be19574fb72575fee01e484
+    layerID: -1893342546
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: idle Copy 5
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: f95f563a3d7bc3149aabd18ec51c7a09
+    layerID: 1300015062
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Y\xDCZ Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 315
+    spriteID: 32b0e6d4f27bc934c8b7ea7dbca43c03
+    layerID: 1101579720
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xDCST Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 315
+    spriteID: e29482199a4969746874fedbb74b8a9b
+    layerID: -625638666
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ETEK Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 315
+    spriteID: ee25fd7eb5fcf714395cabd1c8c59812
+    layerID: 367209240
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SBACAK Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 315
+    spriteID: d178831832f633f409f31cacd8e07669
+    layerID: 293065188
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SOBACAK Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 315
+    spriteID: 32f4368c266d36d43a9341615395656d
+    layerID: -1637250045
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7 Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 315
+    spriteID: 90604c30836791a469d48dfa6ff7b8d2
+    layerID: 1290404852
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: idle Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: a2088b65892f9af4790582657efe9141
+    layerID: 1297720201
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Y\xDCZ Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 322
+    spriteID: 19a218d1d2e52ba41bb49dea308045bc
+    layerID: -519605472
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xDCST Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 322
+    spriteID: 2c6b66fd5732b3348ae3f3babf80766f
+    layerID: 1922504254
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ETEK Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 322
+    spriteID: 15e140826cb1dda47ab84cbd05a15917
+    layerID: -422503456
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SBACAK Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 322
+    spriteID: d6122dc4566cb5c408d08e7cf8691379
+    layerID: 963113868
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SOBACAK Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 322
+    spriteID: b40c243b8779ffd4daaf7c700f05a713
+    layerID: 351632795
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7 Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 322
+    spriteID: 6e9682e46f4498d4cb86eb30561921a2
+    layerID: -1446526884
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: idle Copy 2
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 6415544a0c0ada941b2d3c00cfe33e61
+    layerID: 1300015063
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Y\xDCZ Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 329
+    spriteID: f871a074399c97d4b856f3977ddd0ef8
+    layerID: 1908148774
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xDCST Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 329
+    spriteID: 32dce661443af6a4784da2a4093b9f74
+    layerID: -1432207720
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ETEK Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 329
+    spriteID: 806858db06bcbbb4eb2441e919078a9b
+    layerID: 367209230
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SBACAK Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 329
+    spriteID: 41a6633c2703d124283abaa7c4f85fd3
+    layerID: 293065182
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SOBACAK Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 329
+    spriteID: 98e52067caa65fa459bd9c85e4f6d259
+    layerID: 1138687477
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7 Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 329
+    spriteID: 92ade58be01b1b743a00893a21e8566e
+    layerID: -1485532670
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: idle Copy 3
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 19c562e7743fe29419f78115d261eac4
+    layerID: 1300015064
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Y\xDCZ Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 336
+    spriteID: 6338c6a203b9b4e40b16449238aa15ba
+    layerID: 342064833
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xDCST Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 336
+    spriteID: 9333811ec50f1944cbf2fcdf41ffa5c1
+    layerID: 133876221
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ETEK Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 336
+    spriteID: 481978e0de937384086e62324f682fb9
+    layerID: 367209229
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SBACAK Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 336
+    spriteID: d6fe241cc0235684da62556edd29e2f1
+    layerID: 293065183
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SOBACAK Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 336
+    spriteID: f4878cde7350b9f4e9bef0ec90ac0def
+    layerID: -1590195878
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7 Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 336
+    spriteID: 7b7fe119924519a41a8a5c07dc7dcaf7
+    layerID: 80551271
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: idle Copy 4
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 7bfa72699c2d5aa49a311838391e3023
+    layerID: 1300015061
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "Y\xDCZ Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 343
+    spriteID: cf0246544b5905a4a967ab43ec012ba2
+    layerID: -1224019108
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xDCST Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 343
+    spriteID: e6f64cccacbb5cb4c8ca71c87ea21772
+    layerID: 1699960162
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: ETEK Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 343
+    spriteID: c8695f3355adc5e4da1686d96709de25
+    layerID: 367209236
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SBACAK Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 343
+    spriteID: 28edede60d814d04687e15b2ffe38172
+    layerID: 293065184
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: SOBACAK Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 343
+    spriteID: 3e349ba7c8a22474ab7338b8028cb834
+    layerID: 332118423
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "SA\xC7 Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 343
+    spriteID: f0cc5de9d192f234b9ce56940b5f817d
+    layerID: -678963616
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 5 Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 44c0e0a5ef2385f4a996f08c1ad3471f
+    layerID: -1129257475
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\xE7anta Copy 10"
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0ea71bdd2f118404c9e8da48f3e91abb
+    layerID: -2118413791
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: 66
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7fd00899f45299e40b265be3aaf36f89
+    layerID: 1261644178
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: 55
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d9401358770ecf9428ff237dfe55cfe8
+    layerID: 858359648
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: 44
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c617344faa8bce04f94ab2d2c381e18b
+    layerID: -1870523706
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: 33
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a945b8e6801b3574fa98e08d1d061ea1
+    layerID: 1664928708
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: 22
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7a1d5038c2cb9314c9742286e46042e1
+    layerID: -1063954646
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: 11
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 9a069836d93667645a77a8f196da8b98
+    layerID: -1467239176
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: 8 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 91f5162433d17c144b1a20d31cda2274
+    layerID: 906523949
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 13 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 358
+    spriteID: 2702235ae3442cf4e87005ef229a6023
+    layerID: -1083379126
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 5 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 358
+    spriteID: 6509f423fe05fbc4d9393bcbcef7b1b5
+    layerID: -394526473
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xE7anta Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 358
+    spriteID: c563ab5d24b22af4ba84daf783c83efa
+    layerID: -1048073764
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xFCst Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 358
+    spriteID: 7668ec6d36ba65a448efe55da80551d4
+    layerID: -1083946210
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: etek Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 358
+    spriteID: 9a80a333f8fb47042bb37c3c4ffd6fe9
+    layerID: 2035038240
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak1 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 358
+    spriteID: d111650d3fa85554eba1ece1c30179d2
+    layerID: 1597762748
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak 2 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 358
+    spriteID: 6bfc6ac1ec7196648b0556e66cf7d22c
+    layerID: -537309779
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "y\xFCzz Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 358
+    spriteID: ea8ad902b32c0b64dbd1420af2e05ec7
+    layerID: 1748512768
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "sa\xE7 Copy"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 358
+    spriteID: 478906b23a37dbc4099518b0d7bf0f94
+    layerID: -1643335684
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 7 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: b1823ea5efba8f04c88e3a29868770fd
+    layerID: 906507680
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 12 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 368
+    spriteID: d0bf6d0e2568087418577946b2a37286
+    layerID: -113377947
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\xE7anta Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 368
+    spriteID: 89ec238af3ec7f54ea737c7885b406ef
+    layerID: 1648564322
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xFCst Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 368
+    spriteID: 4cb21426d44cc7e4abc4519c567d56d6
+    layerID: -415700808
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: etek Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 368
+    spriteID: 68b706d5cd986a941817f71c9f34288f
+    layerID: -138293426
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak1 Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 368
+    spriteID: e8ac2599bf7d70445af1ae2d513a561c
+    layerID: -238358354
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak 2 Copy 2
+    spriteName: 
+    isGroup: 0
+    parentIndex: 368
+    spriteID: 7332f5a9f577b2544a48f25a9ca6fa87
+    layerID: -1546139277
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "y\xFCzz Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 368
+    spriteID: f4f5746d09eb91b46873fff7b07a065e
+    layerID: 441425010
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "sa\xE7 Copy 2"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 368
+    spriteID: 0fe96ea0ea324a24e85961d6ec5f33c0
+    layerID: 2054835938
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 6 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ea2a4e948ff387948b32c4738a32cffa
+    layerID: 906508703
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\xE7anta Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 377
+    spriteID: e5ffe1d104bb6ab4b923c5e6fb00008f
+    layerID: -1080319033
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xFCst Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 377
+    spriteID: edaa7dd0ec0487243bed2442c6335eee
+    layerID: 1150383133
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: etek Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 377
+    spriteID: a474a4ad6a3c4a2489acf428802e1864
+    layerID: -138293427
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak 2 Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 377
+    spriteID: 68affbf0117283e4095fc430b864f0b1
+    layerID: 1182744078
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak1 Copy 3
+    spriteName: 
+    isGroup: 0
+    parentIndex: 377
+    spriteID: a61c5f9b181a4a04c8a67ad9843d43b2
+    layerID: -238358355
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "y\xFCzz Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 377
+    spriteID: 3ff9d7750e6281240a7f201ac40dd547
+    layerID: 441425011
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "sa\xE7 Copy 3"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 377
+    spriteID: e5331afddff2ec94d8019d2ef6f54f52
+    layerID: -674047417
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 11 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 377
+    spriteID: c3ab7db4801dbdd44a8d04399aaab3bb
+    layerID: -356588652
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: 5 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 0dc54925b72dac943a120b89cb2e131d
+    layerID: 906509858
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 10 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 386
+    spriteID: 2ecd7e6960f119b4cb1d0516c5d50c88
+    layerID: -1164449361
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\xE7anta Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 386
+    spriteID: 7aeeba3c00dc5094b8cd160e6db8196b
+    layerID: -1483603560
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xFCst Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 386
+    spriteID: 5bf67f87bd4a5ef4db12ad101c22b483
+    layerID: -1578500222
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: etek Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 386
+    spriteID: 387511ab0e1865445a823a4f75ec4497
+    layerID: -138293420
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak 2 Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 386
+    spriteID: e1e8ab483c1768540ad9c6a551bdfc79
+    layerID: -739570223
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak1 Copy 4
+    spriteName: 
+    isGroup: 0
+    parentIndex: 386
+    spriteID: f11720d0aba98cb439a733f374f229c9
+    layerID: -238358352
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "y\xFCzz Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 386
+    spriteID: e60ccc009caffce42b894529333d952c
+    layerID: 441425012
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "sa\xE7 Copy 4"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 386
+    spriteID: 992bdcdbbad0ebc4797630f3260e7c8c
+    layerID: -1433562304
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 4 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 5af0b0da6e8ca8b40964cc1cf076d053
+    layerID: 906510881
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 9 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 395
+    spriteID: d7fd3fca2a7ca5d4586b1d59c38ab28e
+    layerID: -394522117
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\xE7anta Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 395
+    spriteID: 7cf30de9fe2abfd41bd058b9ddb7953b
+    layerID: 82480381
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xFCst Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 395
+    spriteID: c86b9c536d24e3d48b3651571dd75299
+    layerID: -12416281
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: etek Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 395
+    spriteID: dfd965a56f4b05444b268db6cc2898c5
+    layerID: -138293421
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak 2 Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 395
+    spriteID: f43b2f92c99e4ca40887b73510b95aaf
+    layerID: 1989313132
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak1 Copy 5
+    spriteName: 
+    isGroup: 0
+    parentIndex: 395
+    spriteID: b124328d0cde1034d9e72eace41e1695
+    layerID: -238358353
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "y\xFCzz Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 395
+    spriteID: d65a95691593ac147957c28a4508bb25
+    layerID: 441425013
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "sa\xE7 Copy 5"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 395
+    spriteID: c77608b1c3e699b4e9fc92eabd52df34
+    layerID: 132521637
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 3 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: dcbe8e99fbf414941a8f63d75c22b9ca
+    layerID: 906512036
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 8 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 404
+    spriteID: 555336b76c408be479a4598b6ff8ff49
+    layerID: -394518916
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\xE7anta Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 404
+    spriteID: b40ee23495ef9244b99105553fc60a31
+    layerID: -320804146
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xFCst Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 404
+    spriteID: a92d298284d5bef4eadfe324249f38d4
+    layerID: 1553667660
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: etek Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 404
+    spriteID: 457c952218264df418f07ddd9dd74fda
+    layerID: -138293422
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak 2 Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 404
+    spriteID: d6f2eb262f8443c4d9d7fe052badfc25
+    layerID: 423229191
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak1 Copy 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 404
+    spriteID: 236ced78200766940b263b13b7dc9c13
+    layerID: -238358350
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "y\xFCzz Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 404
+    spriteID: a69dda4cb3d6fb2488d7f898552c796f
+    layerID: 441425014
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "sa\xE7 Copy 6"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 404
+    spriteID: 35df5ffe996f58d4eac0c8ad192dfe3b
+    layerID: -270762890
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 2 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 486fefd622069674dbd201592fc7a242
+    layerID: 906513059
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 7 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 413
+    spriteID: 0d81776eac238de4fa37d0c6e149f9d8
+    layerID: -394524295
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\xE7anta Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 413
+    spriteID: 650328b6b42585347847172241c6ddd1
+    layerID: 1245279795
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xFCst Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 413
+    spriteID: 7ed461c045d26574bb8fb518f3c37a4e
+    layerID: -1175215695
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: etek Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 413
+    spriteID: 3ff251f149d583846a15e92743ed91ff
+    layerID: -138293423
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak 2 Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 413
+    spriteID: 9e871010b8b414042a5faf6fb96f9c0d
+    layerID: -1142854750
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak1 Copy 7
+    spriteName: 
+    isGroup: 0
+    parentIndex: 413
+    spriteID: f5d5d92c66dd31445855e94fb5b3d5e2
+    layerID: -238358351
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "y\xFCzz Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 413
+    spriteID: accdbca7b71e933468b97241901c2e79
+    layerID: 441425015
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "sa\xE7 Copy 7"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 413
+    spriteID: e5e4c091d8332e54f90df4fe32b658ae
+    layerID: 1295321051
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: 1 Copy
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: ca0f7d58be14f184993af6946da98233
+    layerID: 906514214
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 6 Copy
+    spriteName: 
+    isGroup: 0
+    parentIndex: 422
+    spriteID: 780d10803625b0145a93deb428674d31
+    layerID: -394529542
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: "\xE7anta Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 422
+    spriteID: 8996823dbd0a76146904dd8c7675543c
+    layerID: 129534548
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "\xFCst Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 422
+    spriteID: 2c97b7748e721c949b54b10c0309d345
+    layerID: 390868246
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: etek Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 422
+    spriteID: a7a50fe683358e241b86fb6b56427c66
+    layerID: -138293416
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak 2 Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 422
+    spriteID: 2deb8e11a94444b469566ad43bf6c1b5
+    layerID: 1229798245
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: bacak1 Copy 8
+    spriteName: 
+    isGroup: 0
+    parentIndex: 422
+    spriteID: 65027e65d8afe364198b9ac507807c79
+    layerID: -238358364
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "y\xFCzz Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 422
+    spriteID: b852ed775ff973d4594a39509c972175
+    layerID: 441425016
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: "sa\xE7 Copy 8"
+    spriteName: 
+    isGroup: 0
+    parentIndex: 422
+    spriteID: 873348b820af2d342ab1b2c404a39c94
+    layerID: 535806164
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Layer 1
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: db5bf1523bef08043bd6861c0f1b2ba1
+    layerID: -7500616
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Paper
+    spriteName: 
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 718f7a0be4ca79c49a5aea28a9fbd1ce
+    layerID: -1779142660
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  mosaicPSDLayers: []
+  rigPSDLayers: []
+  sharedRigPSDLayers: []
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
