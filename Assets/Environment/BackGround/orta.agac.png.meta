@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: a65975887cdd0cd409c5521b596f16c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5072082457821375463
+    second: orta.agac_0
+  - first:
+      213: 530692837542569693
+    second: orta.agac_1
+  - first:
+      213: 2206590874158614219
+    second: orta.agac_2
+  - first:
+      213: -3807386006762961366
+    second: orta.agac_3
+  - first:
+      213: 2385373481218943654
+    second: orta.agac_4
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.37562194, y: 0.23957445}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 4619, y: 0, z: 7985, w: 1636}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orta.agac_0
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 666
+        width: 1
+        height: 7
+      alignment: 9
+      pivot: {x: 7.279785, y: -0.46855816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914111ea0e75c99b0800000000000000
+      internalID: -5072082457821375463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta.agac_1
+      rect:
+        serializedVersion: 2
+        x: 4621
+        y: 0
+        width: 818
+        height: 1493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6a192f2566d5700800000000000000
+      internalID: 530692837542569693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orta.agac_3
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 993
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26c9186992792bc0800000000000000
+      internalID: -3807386006762961366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -1312.5, y: -1600.324}
+      - {x: -1266.5625, y: -1442.915}
+      - {x: -1266.5625, y: -550.9312}
+      - {x: -1463.4375, y: -111.49798}
+      - {x: -1975.3124, y: -111.49798}
+      - {x: -2119.6875, y: -564.0486}
+      - {x: -2119.6875, y: -1574.0891}
+      - {x: -2034.3749, y: -1620}
+      - {x: -1568.4375, y: -1620}
+    - - {x: -2848.125, y: -222.99596}
+      - {x: -2848.125, y: -203.31985}
+      - {x: -2867.8125, y: -196.76114}
+      - {x: -2880.9375, y: -209.87856}
+      - {x: -2867.8125, y: -229.55467}
+    - - {x: -2743.125, y: -524.6964}
+      - {x: -2743.125, y: -505.02026}
+      - {x: -2762.8125, y: -478.78546}
+      - {x: -2775.9375, y: -478.78546}
+      - {x: -2789.0625, y: -491.90286}
+      - {x: -2782.5, y: -518.1377}
+      - {x: -2762.8125, y: -531.25507}
+    - - {x: -2342.8125, y: -636.19434}
+      - {x: -2342.8125, y: -616.51825}
+      - {x: -2355.9375, y: -603.4008}
+      - {x: -2375.625, y: -609.95953}
+      - {x: -2375.625, y: -629.6357}
+      - {x: -2362.5, y: -642.75305}
+    - - {x: -1102.5, y: -649.31177}
+      - {x: -1102.5, y: -629.6357}
+      - {x: -1122.1875, y: -623.07697}
+      - {x: -1135.3125, y: -636.19434}
+      - {x: -1122.1875, y: -655.8705}
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      orta.agac_0: -5072082457821375463
+      orta.agac_1: 530692837542569693
+      orta.agac_2: 2206590874158614219
+      orta.agac_3: -3807386006762961366
+      orta.agac_4: 2385373481218943654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
